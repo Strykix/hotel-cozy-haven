@@ -1,0 +1,58 @@
+{
+  "hotel_name": "Cozy Haven",
+  "city": "Ahangama",
+  "photos": [
+    {
+      "filename": "photo-01.jpg",
+      "path": "/images/hotel/photo-01.jpg",
+      "index": 0,
+      "size_kb": 192
+    },
+    {
+      "filename": "photo-02.jpg",
+      "path": "/images/hotel/photo-02.jpg",
+      "index": 1,
+      "size_kb": 86
+    },
+    {
+      "filename": "photo-03.jpg",
+      "path": "/images/hotel/photo-03.jpg",
+      "index": 2,
+      "size_kb": 143
+    },
+    {
+      "filename": "photo-04.jpg",
+      "path": "/images/hotel/photo-04.jpg",
+      "index": 3,
+      "size_kb": 127
+    },
+    {
+      "filename": "photo-05.jpg",
+      "path": "/images/hotel/photo-05.jpg",
+      "index": 4,
+      "size_kb": 128
+    },
+    {
+      "filename": "photo-06.jpg",
+      "path": "/images/hotel/photo-06.jpg",
+      "index": 5,
+      "size_kb": 135
+    },
+    {
+      "filename": "photo-07.jpg",
+      "path": "/images/hotel/photo-07.jpg",
+      "index": 6,
+      "size_kb": 149
+    }
+  ],
+  "place_info": {
+    "name": "Cozy Haven",
+    "address": "X9FM+4VC anikath, goviyapana, Ahangama, Sri Lanka",
+    "rating": 5,
+    "reviews_count": 1,
+    "phone": "077 519 1225",
+    "website": null,
+    "place_id": "ChIJYUf6LQAV4ToRrwRH331MIQo"
+  },
+  "error": null
+}
